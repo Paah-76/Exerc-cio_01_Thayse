@@ -1,4 +1,4 @@
-# Exerc-cio_01_Thayse
+# Exercio_01_Thayse
 Repositório criado para realização do exercício proposto na primeira aula da Thayse
 
 Olá, seja bem vinda Thayse, esse readme foi criado com o proposito de concluir atividade proposta por você
